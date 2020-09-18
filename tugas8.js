@@ -1,5 +1,5 @@
-var arisan = ["astrid", "ellyss", "endah", "erica", "ika", "rahmi", "tasya", "tri"]
+var dataDiri = {firstName : "Tasya", lastName: "Maftuhah", age: 28}
 
-console.log(arisan)
-arisan[6] = "tasya sukma"
-console.log(arisan)
+console.log(dataDiri)
+dataDiri.firstName = "Tasya Sukma"
+console.log(dataDiri)
